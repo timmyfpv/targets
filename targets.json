@@ -3,7 +3,7 @@
         "name": "GIGFPV",
         "rx_2400": {
             "gigrace": {
-                "product_name": "GIGFPV GIGRACE RX",
+                "product_name": "GIGRACE",
                 "lua_name": "GIGFPV GIGRACE",
                 "layout_file": "Generic C3 2400.json",
                 "upload_methods": ["uart", "betaflight"],
